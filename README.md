@@ -1,3 +1,6 @@
+[![Run unit tests](https://github.com/NewOsakA/ci-demo/actions/workflows/python-unittest.yml/badge.svg)](https://github.com/NewOsakA/ci-demo/actions/workflows/python-unittest.yml)
+[![Run python flask8](https://github.com/NewOsakA/ci-demo/actions/workflows/run-flask8.yml/badge.svg)](https://github.com/NewOsakA/ci-demo/actions/workflows/run-flask8.yml)
+
 Continuous Integration Demo
 ===========================
 
