@@ -1,7 +1,6 @@
 [![Run unit tests](https://github.com/NewOsakA/ci-demo/actions/workflows/python-unittest.yml/badge.svg)](https://github.com/NewOsakA/ci-demo/actions/workflows/python-unittest.yml)
 [![Run python flask8](https://github.com/NewOsakA/ci-demo/actions/workflows/run-flask8.yml/badge.svg)](https://github.com/NewOsakA/ci-demo/actions/workflows/run-flask8.yml)
-[![Run unit tests](https://github.com/NewOsakA/ci-demo/actions/workflows/python-unittest.yml/badge.svg)](https://github.com/NewOsakA/ci-demo/actions/workflows/python-unittest.yml)
-
+[![Run Code Coverage](https://github.com/NewOsakA/ci-demo/actions/workflows/python-Codecov.yml/badge.svg)](https://github.com/NewOsakA/ci-demo/actions/workflows/python-Codecov.yml)
 Continuous Integration Demo
 ===========================
 
